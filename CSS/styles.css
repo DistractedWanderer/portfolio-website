@@ -77,8 +77,8 @@ button:hover, button:focus {
 }
 
 .button__secondary {
-  background-color: #fbb117;
-  color: #2b2b2b;
+  background-color: #357b70;
+  color: white;
 }
 
 .profile {
@@ -139,7 +139,7 @@ button:hover, button:focus {
 }
 
 .grid__item {
-  background-color: #436499;
+  background-color: #bb5f62;
 }
 
 .button, button {

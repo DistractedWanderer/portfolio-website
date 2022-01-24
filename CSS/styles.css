@@ -13,7 +13,17 @@ body
 font-weight: 400;
 font-size: 16px;
 line-height: 1.6;
-color: black}
+color: black;
+}
+
+.standard-label{
+  display: block;
+}
+
+.input-box{
+  height: 35px;
+  width: 300px;
+}
 
 body
 {background-color: var(--dark-grey)}
@@ -75,6 +85,7 @@ button:hover, button:focus {
   /* reduces the opacity of the button to 50% */
   opacity: 0.5;
 }
+
 
 .button__secondary {
   background-color: #357b70;
